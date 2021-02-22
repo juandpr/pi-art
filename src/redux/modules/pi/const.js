@@ -1,3 +1,3 @@
-export const PI_GET = 'POST_GET';
-export const PI_RECEIVE = 'POST_LOADED';
+export const PI_GET = 'PI_GET';
+export const PI_RECEIVE = 'PI_LOADED';
 

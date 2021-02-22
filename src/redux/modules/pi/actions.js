@@ -3,11 +3,11 @@ import {
   PI_RECEIVE
 } from './const';
 
-export const getPi = (start, limit) => (
+export const getPi = (start, length) => (
   {
     type: PI_GET,
     start,
-    limit
+    length
   }
 );
 

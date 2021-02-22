@@ -1,0 +1,16 @@
+.artPiece {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.pixel {
+  width: 4px;
+  height: 4px;
+}
